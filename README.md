@@ -1,2 +1,0 @@
-# java
-Some java code
